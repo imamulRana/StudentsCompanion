@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "882941774891",
+    "firebase_url": "https://students-companion-d1548-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "students-companion-d1548",
+    "storage_bucket": "students-companion-d1548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882941774891:android:d66210720f0441bd696e6e",
+        "android_client_info": {
+          "package_name": "com.imstudio.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882941774891-onbog5h8m123mcevqgce8s8nh80pmf4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD72dE4OTmmPAusffifb2Itulg06fUnHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882941774891-onbog5h8m123mcevqgce8s8nh80pmf4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882941774891:android:af4da1338c3b1ef0696e6e",
+        "android_client_info": {
+          "package_name": "com.imstudio.studentscompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882941774891-onbog5h8m123mcevqgce8s8nh80pmf4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD72dE4OTmmPAusffifb2Itulg06fUnHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882941774891-onbog5h8m123mcevqgce8s8nh80pmf4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
