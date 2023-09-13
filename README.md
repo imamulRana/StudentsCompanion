@@ -5,17 +5,16 @@ For UI it uses the latest and greatest Tool Jetpack Compose That google has to o
 for The UX It was Totally handcrafted and optimized by myself with the help of my long and EXTENSIVE UI/UX Knowledge.
 
 Login Screen
-![iPhone 14 Pro Max – 4](https://github.com/imamulRana/StudentsCompanion/assets/30460184/795a8120-a2c2-44f6-a979-d912cda5d976)
+![iPhone 14 Pro Max – 4](https://github.com/imamulRana/StudentsCompanion/assets/30460184/6e811e1d-b5e9-4491-9481-1640e21e84b4)
 
 HomeScreen
-![iPhone 14 Pro Max – 5](https://github.com/imamulRana/StudentsCompanion/assets/30460184/4ff1e55f-5b9b-4d7f-9061-5e37606beb4e)
-
+![iPhone 14 Pro Max – 6](https://github.com/imamulRana/StudentsCompanion/assets/30460184/6038326a-19f3-4d5a-ad28-0932abd08189)
 
 Class Schedules
-![iPhone 14 Pro Max – 2](https://github.com/imamulRana/StudentsCompanion/assets/30460184/d7158244-f6ff-43ea-93bf-ea073d3d9fae)
+![iPhone 14 Pro Max – 2](https://github.com/imamulRana/StudentsCompanion/assets/30460184/bfa1fb1d-88c1-4188-81c1-eb93fd38359d)
 
 Bus Schedules
-![iPhone 14 Pro Max – 5](https://github.com/imamulRana/StudentsCompanion/assets/30460184/4e9558f6-515d-42ec-9ce0-6599d6973f4e)
+![iPhone 14 Pro Max – 5](https://github.com/imamulRana/StudentsCompanion/assets/30460184/7f42b24e-7f0a-4cd9-b991-9f479356e074)
 
 About Screen
-![iPhone 14 Pro Max – 3](https://github.com/imamulRana/StudentsCompanion/assets/30460184/1e18b6e5-f50e-4f33-a284-28c0c0f4b78c)
+![iPhone 14 Pro Max – 3](https://github.com/imamulRana/StudentsCompanion/assets/30460184/b412e7bd-1dd5-4bef-8698-d429b9e21794)
