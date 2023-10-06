@@ -108,4 +108,53 @@ fun setDataWithParam() {
     init {
         setDataWithParam()
     }
+
+    //    var expanded by remember {
+//        mutableStateOf(false)
+//    }
+//
+//    ExposedDropdownMenuBox(
+//        expanded = expanded, onExpandedChange = { expanded = !expanded },
+//        modifier = modifier
+//            .padding(horizontal = Padding.mediumPadding)
+//    ) {
+//        TextField(
+//            value = currentDept.department,
+//            onValueChange = { currentDept.department },
+//            modifier = modifier
+//                .menuAnchor()
+//                .fillMaxWidth(),
+//            readOnly = true,
+//            trailingIcon = {
+//                if (expanded) {
+//                    Icon(
+//                        imageVector = Icons.Rounded.KeyboardArrowUp,
+//                        contentDescription = ""
+//                    )
+//                } else Icon(imageVector = Icons.Rounded.KeyboardArrowDown, contentDescription = "")
+//            },
+//            colors = TextFieldDefaults.textFieldColors(
+//                containerColor = MaterialTheme.colorScheme.primary,
+//                unfocusedIndicatorColor = Color.Transparent,
+//                focusedIndicatorColor = Color.Transparent
+//            ),
+//            shape = MaterialTheme.shapes.medium,
+//            placeholder = { Text(text = "Department") }
+//        )
+//        ExposedDropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
+//            departmentState.forEach {
+//                DropdownMenuItem(
+//                    text = { Text(text = it.department) },
+//                    onClick = {
+//                        currentDept = it
+//                        studentsCompanionViewModel.getBatchByDept(
+//                            deptId = currentDept.id,
+//                            dept = currentDept.department
+//                        )
+//                        expanded = !expanded
+//                    }
+//                )
+//            }
+//        }
+//    }
  */
